@@ -1,0 +1,24 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "qrcode",
+  "homepage": "https://github.com/latakin/QR-code-Generator#readme",
+  "bugs": {
+    "url": "https://github.com/latakin/QR-code-Generator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/latakin/QR-code-Generator.git"
+  },
+  "license": "ISC",
+  "author": "Akinwunmi Lateef",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^13.2.2",
+    "qr-image": "^3.2.0"
+  }
+}
